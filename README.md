@@ -23,3 +23,6 @@ GRAND CANYON is a small guesthouse (12 rooms) located at vul. Dovha 1/7 in Kamia
 
 ## Notes
 The page states that exact room names, current prices, and availability are published on the official site and should be checked there before booking. The beehive therapy offering is also flagged as needing confirmation directly with the owners.
+
+## Forms
+Live HotelOS form (`kp-grandcanyon`, script before `</body>`): `stay-request`.
